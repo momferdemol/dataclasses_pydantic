@@ -8,8 +8,9 @@
 
 # dataclasses_pydantic
 
-Dataclasses example
-Pydantic example
+Two examples:
+- Dataclasses
+- Pydantic
 
 **Credits**
 
